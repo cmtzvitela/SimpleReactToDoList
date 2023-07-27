@@ -24,14 +24,14 @@ h1 {
   font-size: 1.75rem;
 }
 
-.TodoWrapper {
+.todo-wrapper {
   background: #1A1A40;
   margin-top: 5rem;
   padding: 2rem;
   border-radius: 5px;
 }
 
-.TodoForm {
+.todo-form {
   width: 100%;
 }
 

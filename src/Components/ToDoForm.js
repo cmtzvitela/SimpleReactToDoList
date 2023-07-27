@@ -9,7 +9,7 @@ export const ToDoForm = ({ addTodo }) => {
     setValue('');
   };
   return (
-    <form className="TodoForm" onSubmit={handleSubmit}>
+    <form className="todo-form" onSubmit={handleSubmit}>
       <input
         type="text"
         className="todo-input"
